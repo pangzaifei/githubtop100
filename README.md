@@ -1,5 +1,5 @@
 # githubtop100
-github最热门的前100个项目汇总，支持搜索多种编程语言</br>
+ReactNative实现app支持github最热门的前100个项目汇总，支持搜索多种编程语言</br>
 <b>本项目主要是用来学习/了解React-Native技术实现Android+Ios跨端开发App
   </br>主要是熟悉/了解react-native api、第三方库、Redux+react-navigation开发模式等相关知识。
   </br>参考大神文章，从头编写一遍，先入门。</b>
